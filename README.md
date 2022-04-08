@@ -8,5 +8,5 @@ zookeeper-server-start.bat config/zookeeper.properties
 ```
 ### Start Brokers
 ```sh
-zookeeper-server-start.bat config/zookeeper.properties
+kafka-server-start.bat config/server.properties
 ```
